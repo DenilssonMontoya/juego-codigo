@@ -1,0 +1,30 @@
+*{
+    font-family: Arial;
+    background-color: #999;
+}
+
+h1 {
+    color: white;
+    
+    width: auto;
+    font-size: 8vw;
+    text-align: center;
+    }
+table, tr, td{
+    
+    border-collapse: collapse;
+    font-size: 3vw;
+    margin: 0 auto;
+    text-align: center;
+    }
+
+td{
+    width: 300px;
+   }
+   td:nth-child(1){
+       height: 100px;
+   }
+
+.mainimg {
+    width: 50vw;
+    }
